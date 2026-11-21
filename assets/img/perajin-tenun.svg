@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="700" viewBox="0 0 620 700">
+  <rect width="620" height="700" fill="#ead8be"/><rect y="454" width="620" height="246" fill="#b9825f"/><path d="M0 498c142-34 257 4 385-21 92-18 171-3 235 14v209H0Z" fill="#9c6d50"/>
+  <circle cx="438" cy="156" r="82" fill="#f6ead6"/><path d="M399 184c10-29 69-37 84 0v45h-84Z" fill="#402c27"/><circle cx="442" cy="204" r="45" fill="#ad7354"/><path d="M390 197c-4-62 93-86 110-13-27-18-59-25-110 13Z" fill="#382b26"/><path d="M399 211c20 18 55 16 78-2" fill="none" stroke="#714536" stroke-width="5"/>
+  <path d="M350 291c22-48 109-55 146-3l54 169H311Z" fill="#2f4a3a"/><path d="M361 322h123m-135 25h144m-151 25h156m-164 25h172m-180 25h188" stroke="#dca56d" stroke-width="9"/><path d="M386 301v139m39-153v153m39-142v142m39-110v110" stroke="#f2dec1" stroke-width="5"/>
+  <path d="M70 374h266v226H70z" fill="#7c4938"/><path d="M88 389h230v191H88z" fill="#d8bd94"/><path d="M102 405h201v160H102z" fill="#a34c35"/><path d="M115 419h174m-174 25h174m-174 25h174m-174 25h174m-174 25h174" stroke="#efd7ad" stroke-width="8"/><path d="M135 405v160m35-160v160m35-160v160m35-160v160m35-160v160" stroke="#3c5846" stroke-width="7"/>
+  <path d="M34 603h548" stroke="#49372e" stroke-width="12"/><path d="M373 445 298 543m205-98 80 101" stroke="#48362b" stroke-width="8"/><path d="M0 0h620v700H0z" fill="none" stroke="#faf5ec" stroke-width="18"/>
+</svg>

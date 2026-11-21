@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="740" height="820" viewBox="0 0 740 820">
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#b77c55"/><stop offset="1" stop-color="#e4c9a3"/></linearGradient>
+    <pattern id="weave" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M0 4h34M0 17h34M0 30h34" stroke="#f4dfbd" stroke-width="5"/><path d="M6 0v34M23 0v34" stroke="#724b3b" stroke-width="3"/><path d="M14 0v34M31 0v34" stroke="#d69b68" stroke-width="2"/></pattern>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="7" dy="15" stdDeviation="14" flood-color="#4a3028" flood-opacity=".22"/></filter>
+  </defs>
+  <rect width="740" height="820" fill="url(#bg)"/><circle cx="580" cy="136" r="190" fill="#f0d7b5" opacity=".32"/><path d="M0 615c158-72 259-7 387-37s231-94 353-44v286H0Z" fill="#846149" opacity=".27"/>
+  <g transform="rotate(-8 365 414)" filter="url(#shadow)"><path d="M141 115 587 91l45 604-463 31Z" fill="#f1dfc1"/><path d="m154 140 405-22 38 541-422 25Z" fill="url(#weave)"/><path d="m154 140 405-22 12 164-405 24Z" fill="#a94d34" opacity=".82"/><path d="m160 433 421-24 16 224-422 25Z" fill="#2f4a3a" opacity=".72"/><path d="m153 334 412-24M165 530l416-24" stroke="#f4e4c9" stroke-width="12" opacity=".9"/><path d="m179 663 5 43m27-45 5 43m27-45 5 43m27-45 5 43m27-45 5 43m27-45 5 43m27-45 5 43m27-45 5 43m27-45 5 43m27-45 5 43m27-45 5 43m27-45 5 43" stroke="#f1dfc1" stroke-width="8"/></g>
+  <g fill="#f1dfc1" opacity=".62"><circle cx="91" cy="177" r="4"/><circle cx="112" cy="198" r="3"/><circle cx="647" cy="340" r="5"/><circle cx="621" cy="362" r="3"/><circle cx="105" cy="697" r="4"/><circle cx="638" cy="732" r="4"/></g>
+</svg>
