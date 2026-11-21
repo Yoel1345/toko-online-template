@@ -55,7 +55,7 @@ svg { display: block; width: 100%; height: 100%; fill: none; stroke: currentColo
 .cart-count { position: absolute; top: -2px; right: -3px; min-width: 19px; height: 19px; display: grid; place-items: center; padding-inline: 4px; color: white; background: var(--terracotta); border: 2px solid var(--white); border-radius: 50px; font-size: 12px; line-height: 1; font-weight: 700; }
 
 .hero { min-height: 590px; display: grid; grid-template-columns: 1fr 1fr; background: var(--cream); }
-.hero-copy { width: min(580px, 100%); justify-self: end; align-self: center; padding: 76px 64px 72px max(32px, calc((100vw - 1160px) / 2)); }
+.hero-copy { width: min(100%, calc(max(32px, (100vw - 1160px) / 2) + 580px)); justify-self: end; align-self: center; padding: 76px 64px 72px max(32px, calc((100vw - 1160px) / 2)); }
 .eyebrow { display: flex; align-items: center; gap: 10px; color: var(--terracotta-dark); font-size: 12px; letter-spacing: .12em; line-height: 1.5; text-transform: uppercase; font-weight: 700; }
 .eyebrow-line { width: 26px; height: 1px; flex: 0 0 auto; background: var(--terracotta); }
 h1, h2, h3, p { margin-top: 0; }
